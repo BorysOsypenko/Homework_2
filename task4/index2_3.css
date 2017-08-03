@@ -1,0 +1,19 @@
+#italic{
+	font-style: italic;
+}
+.style{
+	border-style: dashed;
+	width: 430px;
+	height: 110px;
+}
+
+.italic{
+	font-style: italic;	
+	font-size: 16pt;
+}
+.red{
+	color: red;
+}
+.blue{
+	color: blue;
+}

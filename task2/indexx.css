@@ -1,0 +1,23 @@
+#indentation{
+	background: rgb(214, 215, 190);
+	width: 500px;
+	height: 200px;
+  }
+.caption1{
+	color: rgb(83, 38, 1);
+	margin: 2%;
+  }
+.caption2{
+	color: rgb(0, 0, 0);
+	margin: 2%;
+  }
+.caption3{
+	color: rgb(135, 83, 39);
+	margin: 2%;
+  }
+.redirects a{
+	color: rgb(40, 85, 1);
+  }
+  .space{
+  	margin: 2%;
+  }
